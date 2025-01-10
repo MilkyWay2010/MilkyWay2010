@@ -27,7 +27,7 @@
 <sup><sup>(可点击)</sup></sup>
 
 [![Profile visits](https://komarev.com/ghpvc/?username=yhx2010&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter "Profile visits")
-[![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fyhx2010.github.io&label=Website&down_message=down%20%3A\)](https://yhx2010.github.io "Website")
+[![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fyhx2010.github.io&label=Website&down_message=down%20%3A)](https://yhx2010.github.io "Website")
 [![Stars](https://img.shields.io/github/stars/yhx2010?style=flat-square&color=yellow&label=Stars)](https://github.com/yhx2010?tab=repositories&sort=stargazers "Stars")
 [![GitHub followers](https://img.shields.io/github/followers/yhx2010?style=flat-square&label=Followers)](https://github.com/yhx2010?tab=followers "GitHub followers")
 
