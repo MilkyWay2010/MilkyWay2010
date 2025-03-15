@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&pause=1000&color=71DB99&center=true&vCenter=true&random=true&width=450&lines=Welcome+to+my+GitHub!;Hello+World!;I+love+Coding!;Minecraft+is+very+nice!;Technoblade+Never+Dies!;Science+technology+changes+the+world!;The+code+creates+infinite+possibilities!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&pause=1000&color=71DB99&center=true&vCenter=true&random=true&width=450&lines=Welcome+to+my+GitHub!;Hello+World!;I+love+Coding!;Minecraft+is+very+nice!;Technoblade+Never+Dies!;Science+technology+changes+the+world!;VSCode-forever!" alt="Typing SVG" />
   </a>
 </div>
 
