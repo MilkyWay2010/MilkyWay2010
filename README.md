@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&pause=1000&color=71DB99&center=true&vCenter=true&random=true&width=450&lines=Welcome+to+my+GitHub!;Hello+World!;I+love+Coding!;Minecraft+is+very+nice!;Technoblade+Never+Dies!;Science+technology+changes+the+world!;VSCode-forever!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&pause=1000&color=7199DB&center=true&vCenter=true&random=true&width=450&lines=Welcome+to+my+GitHub!;Hello+World!;I+love+Coding!;Minecraft+is+very+nice!;Technoblade+Never+Dies!;Science+technology+changes+the+world!;VSCode-forever!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -66,9 +66,9 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <picture align="right" title="Top Langs">
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=yhx2010&theme=one_dark_pro&layout=compact" alt="Top Langs" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=yhx2010&theme=default&layout=compact" alt="Top Langs" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yhx2010&theme=default&layout=compact" align="right" alt="Top Langs" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=milkyway2010&theme=one_dark_pro&layout=compact" alt="Top Langs" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=milkyway2010&theme=default&layout=compact" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=milkyway2010&theme=default&layout=compact" align="right" alt="Top Langs" />
     </picture>
 </a>
 
@@ -102,20 +102,20 @@
 </details>
 
 <picture align="center" title="GitHub contribution grid snake animation">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yhx2010/yhx2010/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yhx2010/yhx2010/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/milkyway2010/milkyway2010/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/milkyway2010/milkyway2010/output/github-contribution-grid-snake.svg" />
   <!-- Mirror -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.gitmirror.com/yhx2010/yhx2010/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.gitmirror.com/yhx2010/yhx2010/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/yhx2010/yhx2010/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.gitmirror.com/milkway2010/milkyway2010/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.gitmirror.com/milkyway2010/milkyway2010/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/milkyway2010/milkyway2010/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <details align="center">
   <summary><b>Metrics</b></summary>
   <picture width="400" align="center" title="Metrics">
-    <source srcset="https://raw.githubusercontent.com/yhx2010/yhx2010/output/metrics.svg" title="Metrics" />
-    <source srcset="https://raw.gitmirror.com/yhx2010/yhx2010/output/metrics.svg" title="Metrics" />
-    <img align="center" src="https://raw.githubusercontent.com/yhx2010/yhx2010/output/metrics.svg" width="400" title="Metrics" />
+    <source srcset="https://raw.githubusercontent.com/milkyway2010/milkyway2010/output/metrics.svg" title="Metrics" />
+    <source srcset="https://raw.gitmirror.com/milkyway2010/milkyway2010/output/metrics.svg" title="Metrics" />
+    <img align="center" src="https://raw.githubusercontent.com/milkyway2010/milkyway2010/output/metrics.svg" width="400" title="Metrics" />
   </picture>
   
 </details>
