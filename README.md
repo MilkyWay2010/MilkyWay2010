@@ -15,34 +15,34 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="right">
   <picture align="right" title="GitHub Stats">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yhx2010&show_icons=true&theme=one_dark_pro&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yhx2010&show_icons=true&theme=default&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api?username=yhx2010&show_icons=true&theme=default&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" align="right" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=milkyway2010&show_icons=true&theme=one_dark_pro&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=milkyway2010&show_icons=true&theme=default&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=milkyway2010&show_icons=true&theme=default&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" align="right" alt="GitHub Stats" />
   </picture>
 </a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-gray?style=flat-square&logo=github)](https://github.com/yhx2010 "GitHub")
+[![GitHub](https://img.shields.io/badge/GitHub-gray?style=flat-square&logo=github)](https://github.com/milkyway "GitHub")
 [![BiliBili](https://img.shields.io/badge/Bilibili-gray?style=flat-square&logo=bilibili)](https://space.bilibili.com/3546580869188223 "BiliBili")
-[![LINUX DO](https://img.shields.io/badge/LINUX%20DO-gray?style=flat-square&logo=linux)](https://linux.do/YHX2010 "LINUX DO")
+[![LINUX DO](https://img.shields.io/badge/LINUX%20DO-gray?style=flat-square&logo=linux)](https://linux.do/milkyway "LINUX DO")
 [![Mail](https://img.shields.io/badge/Mail-gray?style=flat-square&logo=data:image/x-icon;base64,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)](mailto:yhx2010yu@outlook.com "Mail")
 <sup><sup>(可点击)</sup></sup>
 
-[![Profile visits](https://komarev.com/ghpvc/?username=yhx2010&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter "Profile visits")
-[![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fyhx2010.github.io&label=Website&down_message=down%20%3A)](https://yhx2010.github.io "Website")
-[![Stars](https://img.shields.io/github/stars/yhx2010?style=flat-square&color=yellow&label=Stars)](https://github.com/yhx2010?tab=repositories&sort=stargazers "Stars")
-[![GitHub followers](https://img.shields.io/github/followers/yhx2010?style=flat-square&label=Followers)](https://github.com/yhx2010?tab=followers "GitHub followers")
+[![Profile visits](https://komarev.com/ghpvc/?username=milkyway2010&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter "Profile visits")
+[![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fmilkyway2010.github.io&label=Website&down_message=down%20%3A)](https://milkyway2010.github.io "Website")
+[![Stars](https://img.shields.io/github/stars/milkyway2010?style=flat-square&color=yellow&label=Stars)](https://github.com/milkyway2010?tab=repositories&sort=stargazers "Stars")
+[![GitHub followers](https://img.shields.io/github/followers/milkyway2010?style=flat-square&label=Followers)](https://github.com/milkyway2010?tab=followers "GitHub followers")
 
-一个爱写 `Python`、正在学习 `C++` 的 Minecraft 玩家，兼B站UP主  
+一个初中生、擅长 `Python`、`HTML`、`TypeScript` 
 
 **Skills / 技能**
 
-[![HTML](https://img.shields.io/badge/HTML-nice-grey?logo=html5&logoColor=white&style=flat-square&labelColor=orange)](https://github.com/yhx2010?tab=repositories&q=&language=html)
-[![CSS](https://img.shields.io/badge/CSS-good-grey?logo=css3&logoColor=white&style=flat-square&labelColor=blue)](https://github.com/yhx2010?tab=repositories&q=&language=css)
-[![JavaScript](https://img.shields.io/badge/JavaScript-some-grey?logo=javascript&logoColor=white&style=flat-square&labelColor=yellow)](https://github.com/yhx2010?tab=repositories&q=&language=javascript)
-[![Batchfile](https://img.shields.io/badge/Batchfile-good-grey?style=flat-square&logoColor=white&labelColor=blue&logo=data:image/svg+xml;charset=utf-8;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNNjcuMzI4IDY3LjMzMWg2MC42NjlWMTI4SDY3LjMyOHptLTY3LjMyNSAwaDYwLjY2OVYxMjhILjAwM3pNNjcuMzI4IDBoNjAuNjY5djYwLjY2OUg2Ny4zMjh6TS4wMDMgMGg2MC42Njl2NjAuNjY5SC4wMDN6Ii8+PC9zdmc+)](https://github.com/yhx2010?tab=repositories&q=&language=batchfile)
-[![ShellScript](https://img.shields.io/badge/ShellScript-good-grey?style=flat-square&logo=gnubash&logoColor=white&labelColor=black)](https://github.com/yhx2010?tab=repositories&q=&language=shell)
-[![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-little-grey?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=blue)](https://github.com/yhx2010?tab=repositories&q=&language=C%2B%2B)
-[![Python](https://img.shields.io/badge/Python-good-grey?style=flat-square&logo=python&logoColor=white&labelColor=blue)](https://github.com/yhx2010?tab=repositories&q=&language=python)
+[![HTML](https://img.shields.io/badge/HTML-nice-grey?logo=html5&logoColor=white&style=flat-square&labelColor=orange)](https://github.com/milkyway2010?tab=repositories&q=&language=html)
+[![CSS](https://img.shields.io/badge/CSS-good-grey?logo=css3&logoColor=white&style=flat-square&labelColor=blue)](https://github.com/milkyway2010?tab=repositories&q=&language=css)
+[![JavaScript](https://img.shields.io/badge/JavaScript-some-grey?logo=javascript&logoColor=white&style=flat-square&labelColor=yellow)](https://github.com/milkyway2010?tab=repositories&q=&language=javascript)
+[![Batchfile](https://img.shields.io/badge/Batchfile-good-grey?style=flat-square&logoColor=white&labelColor=blue&logo=data:image/svg+xml;charset=utf-8;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNNjcuMzI4IDY3LjMzMWg2MC42NjlWMTI4SDY3LjMyOHptLTY3LjMyNSAwaDYwLjY2OVYxMjhILjAwM3pNNjcuMzI4IDBoNjAuNjY5djYwLjY2OUg2Ny4zMjh6TS4wMDMgMGg2MC42Njl2NjAuNjY5SC4wMDN6Ii8+PC9zdmc+)](https://github.com/milkyway2010?tab=repositories&q=&language=batchfile)
+[![ShellScript](https://img.shields.io/badge/ShellScript-good-grey?style=flat-square&logo=gnubash&logoColor=white&labelColor=black)](https://github.com/milkyway2010?tab=repositories&q=&language=shell)
+[![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-little-grey?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=blue)](https://github.com/milkyway2010?tab=repositories&q=&language=C%2B%2B)
+[![Python](https://img.shields.io/badge/Python-good-grey?style=flat-square&logo=python&logoColor=white&labelColor=blue)](https://github.com/milkyway2010?tab=repositories&q=&language=python)
 [![Scratch](https://img.shields.io/badge/Scratch-nice-grey?style=flat-square&logo=scratch&logoColor=white&labelColor=yellow)](#)
 
 **Tools I Use / 我使用的工具**
@@ -186,12 +186,12 @@ I+O+S+T+R+E+A+M = 9+15+19+20+18+5+1+13 = 100%。
 
 <h6>
 
-yhx2010's Homepage [[GitHub](https://github.com/yhx2010)]  
-licensed under [WTFPL license](https://github.com/yhx2010/yhx2010/blob/main/LICENSE).  
+milkyway2010's Homepage [[GitHub](https://github.com/milkyway2010)]  
+licensed under [WTFPL license](https://github.com/milkyway2010/milkyway2010/blob/main/LICENSE).  
 
 </h6>
 
 <!---
-yhx2010/yhx2010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+milkyway2010/milkyway2010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
